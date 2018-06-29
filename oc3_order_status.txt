@@ -1,0 +1,16 @@
+# Статусы заказов OpenCart 3.0.2.0
+
+Pending = В ожидании
+Canceled = Аннулирован
+Processing = Обрабатывается
+Shipped = Отправлен
+Complete = Завершён
+Denied = Отказан
+Canceled Reversal = Отменён и аннулирован
+Failed = Неудавшийся
+Refunded = Возмещён
+Reversed = Отменён
+Chargeback = Возвращён
+Expired = Просрочен
+Processed = Обработан
+Voided = Недействительный
